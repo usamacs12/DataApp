@@ -7,7 +7,6 @@
 //
 
 #import <UIKit/UIKit.h>
-#import "Receiving_class.h"
 @interface ViewController : UIViewController
 
 
